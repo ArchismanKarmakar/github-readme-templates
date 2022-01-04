@@ -8,7 +8,7 @@
 <p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
 <br />
 
-#### I am not the creater of this project. I created this repo just to test my skills, to learn. So, I would not be responsible for any problem. The original repo link is [here](https://[github.com/ryo-ma/awesome-README-templates) and the owner of this Priject is [Elangovan Sndar](https://github.com/elangosundar)
+#### I am not the creater of this project. I created this repo just to test my skills, to learn. So, I would not be responsible for any problem. The original repo link is [here](https://[github.com/ryo-ma/awesome-README-templates) and the owner of this Project is [Elangovan Sndar](https://github.com/elangosundar)
 
 <br />
 This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
@@ -17,7 +17,7 @@ If you are intersted, will create a PR for to add your `README` profile here.
 
 If you like this Repo, Please click the :star:
 
-#### I am not the creater of this project. I created this repo just to test my skills, to learn. So, I would not be responsible for any problem. The original repo link is [here](https://[github.com/ryo-ma/awesome-README-templates) and the owner of this Priject is [Elangovan Sndar](https://github.com/elangosundar)
+#### I am not the creater of this project. I created this repo just to test my skills, to learn. So, I would not be responsible for any problem. The original repo link is [here](https://[github.com/ryo-ma/awesome-README-templates) and the owner of this Project is [Elangovan Sndar](https://github.com/elangosundar)
 
 
 List of `awesome README Profile` categories mentioned below
